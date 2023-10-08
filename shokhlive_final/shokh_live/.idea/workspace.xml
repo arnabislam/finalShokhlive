@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6a089203-df6a-498b-9f70-ad26f383e90e" name="Changes" comment="second change" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2U12AbMwuUBAuuZGJ7Tz7lAH8HF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;io.flutter.reload.alreadyRun&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/arnab/official project/shokhlive_final/shokh_live/images/greedy&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;dart.settings&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/greedy" />
+      <recent name="$PROJECT_DIR$/images/default" />
+      <recent name="$PROJECT_DIR$/images/game" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/app/modules/settings/views" />
+      <recent name="$PROJECT_DIR$/lib/app/modules/settings" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a089203-df6a-498b-9f70-ad26f383e90e" name="Changes" comment="" />
+      <created>1692092623708</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692092623708</updated>
+    </task>
+    <task id="LOCAL-00025" summary="navigation drawer done final">
+      <created>1692791126355</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1692791126355</updated>
+    </task>
+    <task id="LOCAL-00026" summary="multi themes">
+      <created>1692792922635</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1692792922635</updated>
+    </task>
+    <task id="LOCAL-00027" summary="fans,friend error data passing">
+      <created>1692796489021</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1692796489021</updated>
+    </task>
+    <task id="LOCAL-00028" summary="name following,fans,friend changed">
+      <created>1692799181856</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1692799181857</updated>
+    </task>
+    <task id="LOCAL-00029" summary="spin kit done">
+      <created>1692860368827</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1692860368827</updated>
+    </task>
+    <task id="LOCAL-00030" summary="folowing,friends,fans done">
+      <created>1692866835479</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1692866835479</updated>
+    </task>
+    <task id="LOCAL-00031" summary="following done">
+      <created>1692873579770</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1692873579770</updated>
+    </task>
+    <task id="LOCAL-00032" summary="audio frane">
+      <created>1692875432659</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1692875432659</updated>
+    </task>
+    <task id="LOCAL-00033" summary="level frame">
+      <created>1692885287085</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1692885287085</updated>
+    </task>
+    <task id="LOCAL-00034" summary="dialog change in vip">
+      <created>1693049326500</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1693049326500</updated>
+    </task>
+    <task id="LOCAL-00035" summary="vip done">
+      <created>1693057747614</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1693057747614</updated>
+    </task>
+    <task id="LOCAL-00036" summary="ranking list done">
+      <created>1693137819222</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1693137819222</updated>
+    </task>
+    <task id="LOCAL-00037" summary="fixxing &amp; privacy page done">
+      <created>1693246504943</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1693246504943</updated>
+    </task>
+    <task id="LOCAL-00038" summary="viewers fixing done">
+      <created>1693300410118</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1693300410118</updated>
+    </task>
+    <task id="LOCAL-00039" summary="music player,loading done">
+      <created>1693307930731</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1693307930731</updated>
+    </task>
+    <task id="LOCAL-00040" summary="music player,loading done">
+      <created>1693381211951</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1693381211951</updated>
+    </task>
+    <task id="LOCAL-00041" summary="profile some change">
+      <created>1693821959131</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1693821959131</updated>
+    </task>
+    <task id="LOCAL-00042" summary="message bubble text">
+      <created>1693915143825</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1693915143825</updated>
+    </task>
+    <task id="LOCAL-00043" summary="message bubble text1">
+      <created>1693916415307</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1693916415307</updated>
+    </task>
+    <task id="LOCAL-00044" summary="url launcher add">
+      <created>1694083641666</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1694083641666</updated>
+    </task>
+    <task id="LOCAL-00045" summary="broadcast history">
+      <created>1694201788441</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1694201788441</updated>
+    </task>
+    <task id="LOCAL-00046" summary="last visbility">
+      <created>1694844383555</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1694844383555</updated>
+    </task>
+    <task id="LOCAL-00047" summary="last visbility">
+      <created>1694845303197</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1694845303197</updated>
+    </task>
+    <task id="LOCAL-00048" summary="privacy add">
+      <created>1694852840848</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1694852840848</updated>
+    </task>
+    <task id="LOCAL-00049" summary="hosting verifiedadd">
+      <created>1694859145972</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1694859145972</updated>
+    </task>
+    <task id="LOCAL-00050" summary="last apk">
+      <created>1694937880359</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1694937880360</updated>
+    </task>
+    <task id="LOCAL-00051" summary="final apk">
+      <created>1694974509241</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1694974509243</updated>
+    </task>
+    <task id="LOCAL-00052" summary="agora app id done">
+      <created>1695577845631</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1695577845632</updated>
+    </task>
+    <task id="LOCAL-00053" summary="coins potal">
+      <created>1695718651322</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1695718651322</updated>
+    </task>
+    <task id="LOCAL-00054" summary="greedy">
+      <created>1695726327803</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1695726327805</updated>
+    </task>
+    <task id="LOCAL-00055" summary="greedy coins giving">
+      <created>1695817936794</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1695817936794</updated>
+    </task>
+    <task id="LOCAL-00056" summary="greedy coins">
+      <created>1695823438755</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1695823438755</updated>
+    </task>
+    <task id="LOCAL-00057" summary="alert dialog game">
+      <created>1695888320708</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1695888320709</updated>
+    </task>
+    <task id="LOCAL-00058" summary="bottom sheet greedy">
+      <created>1695899951756</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1695899951756</updated>
+    </task>
+    <task id="LOCAL-00059" summary="leaderboard done">
+      <created>1695904117604</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1695904117604</updated>
+    </task>
+    <task id="LOCAL-00060" summary="leaderboard done">
+      <created>1695925583288</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1695925583289</updated>
+    </task>
+    <task id="LOCAL-00061" summary="final">
+      <created>1695928703926</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1695928703927</updated>
+    </task>
+    <task id="LOCAL-00062" summary="final">
+      <created>1695974633076</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1695974633077</updated>
+    </task>
+    <task id="LOCAL-00063" summary="done all">
+      <created>1695974744413</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1695974744414</updated>
+    </task>
+    <task id="LOCAL-00064" summary="ALL HAVE DONE">
+      <created>1696069222240</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1696069222241</updated>
+    </task>
+    <task id="LOCAL-00065" summary="dekh">
+      <created>1696072699450</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1696072699451</updated>
+    </task>
+    <task id="LOCAL-00066" summary="dekh">
+      <created>1696073556948</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1696073556948</updated>
+    </task>
+    <task id="LOCAL-00067" summary="dekh">
+      <created>1696396198507</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1696396198508</updated>
+    </task>
+    <task id="LOCAL-00068" summary="dekh">
+      <created>1696396325924</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1696396325924</updated>
+    </task>
+    <task id="LOCAL-00069" summary="dekh">
+      <created>1696495068078</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1696495068079</updated>
+    </task>
+    <task id="LOCAL-00070" summary="star">
+      <created>1696505098297</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1696505098298</updated>
+    </task>
+    <task id="LOCAL-00071" summary="normal change">
+      <created>1696666780139</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1696666780139</updated>
+    </task>
+    <task id="LOCAL-00072" summary="normal change">
+      <created>1696666826719</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1696666826719</updated>
+    </task>
+    <task id="LOCAL-00073" summary="second change">
+      <created>1696675791894</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1696675791894</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="profile some change" />
+    <MESSAGE value="message bubble text" />
+    <MESSAGE value="message bubble text1" />
+    <MESSAGE value="url launcher add" />
+    <MESSAGE value="broadcast history" />
+    <MESSAGE value="last visbility" />
+    <MESSAGE value="privacy add" />
+    <MESSAGE value="hosting verifiedadd" />
+    <MESSAGE value="last apk" />
+    <MESSAGE value="final apk" />
+    <MESSAGE value="agora app id done" />
+    <MESSAGE value="coins potal" />
+    <MESSAGE value="greedy" />
+    <MESSAGE value="greedy coins giving" />
+    <MESSAGE value="greedy coins" />
+    <MESSAGE value="alert dialog game" />
+    <MESSAGE value="bottom sheet greedy" />
+    <MESSAGE value="leaderboard done" />
+    <MESSAGE value="final" />
+    <MESSAGE value="done all" />
+    <MESSAGE value="ALL HAVE DONE" />
+    <MESSAGE value="dekh" />
+    <MESSAGE value="star" />
+    <MESSAGE value="normal change" />
+    <MESSAGE value="second change" />
+    <option name="LAST_COMMIT_MESSAGE" value="second change" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/app/modules/messenger/views/messages/views/dummymessage_view.dart</url>
+          <line>12</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/app/modules/profile/views/editprofile_view.dart</url>
+          <line>712</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/app/modules/profile/views/profile_view.dart</url>
+          <line>240</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/app/modules/profile/views/check_vip_view.dart</url>
+          <line>31</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/app/modules/settings/views/privacy_view.dart</url>
+          <line>11</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/app/modules/greedy_game/views/greedy_game_view.dart</url>
+          <line>1909</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/app/modules/greedy_game/views/greedy_game_view.dart</url>
+          <line>1905</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/app/modules/fruit_game/views/fruit_game_view.dart</url>
+          <line>981</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/app/modules/live_streaming/views/broadcast/live_broadcast_view.dart</url>
+          <line>3169</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
