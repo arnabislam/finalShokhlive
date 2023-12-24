@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "78563925880",
+    "project_id": "otpgreat-4ce58",
+    "storage_bucket": "otpgreat-4ce58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78563925880:android:3edae2a0a78aef4276b28d",
+        "android_client_info": {
+          "package_name": "sheikhit.net.otpp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKZxwVzverdcxQXgXkuOS1WEPlbN81Fp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

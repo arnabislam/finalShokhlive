@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "530930876302",
+    "project_id": "sign-efbb6",
+    "storage_bucket": "sign-efbb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530930876302:android:9e4a58cd4a8876782daedf",
+        "android_client_info": {
+          "package_name": "sheikhit.net.google"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDloHAvOYR3EGQGF09goenz5i3SsWr8Xkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
